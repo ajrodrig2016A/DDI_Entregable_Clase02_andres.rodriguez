@@ -1,0 +1,17 @@
+Escuela Politecnica Nacional
+
+Escuela de Formacion de Tecnologos
+
+Nombre:Rodriguez Andres Javier.
+Fecha: 2010-05-06
+
+Descripciones de los 4 sketch correspondientes a la Clase 02: Diseñar un mejor control remoto
+
+1. Este primer diseño de control remoto es compacto, liviano y posee los botones numericos, de reproduccion, menu; e incorpora un sensor LED junto a una bateria de Litio como fuente de energia.
+
+2. Este segundo diseño es la mejora del primero, posee una celda solar que acumula la energia en una bateria interna incorporada junto a botones nuevos compatibles con smarts TV Samsung. 
+
+3. Este tercer diseño es compatible con smarts TV Samsung, incorpora un speaker para el uso de comandos de voz que permiten controlar el uso de las funcionalidades del menu. Ademas, en la parte media entre el cuerpo y mango tenemos una pantalla LCD que muestra la hora y porcentaje bateria disponible.
+
+4. Este cuarto diseño posee conectividad bluetooth entre un Smart TV y un touchpad con speker que permite al usuario controlar las funciones del menu y configuraciones del TV.
+
